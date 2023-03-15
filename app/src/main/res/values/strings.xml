@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TL01E117</string>
+    <string-array name="pais">
+        <item>Honduras(504)</item>
+        <item>Costa Rica(506)</item>
+        <item>El Salvador(503)</item>
+        <item>Guatemala(502)</item>
+    </string-array>
+</resources>
